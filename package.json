@@ -18,6 +18,8 @@
   "homepage": "https://github.com/shigemk2/my-gulp-template#readme",
   "dependencies": {
     "browserify": "^13.0.0",
+    "cldr-data": "^29.0.1",
+    "globalize": "^1.1.1",
     "gulp": "^3.9.1",
     "vinyl-source-stream": "^1.1.0"
   }
