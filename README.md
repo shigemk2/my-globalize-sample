@@ -1,3 +1,5 @@
-# my-gulp-template
+# my-globalize-sample
 
-A simple gulp template
+JavaScriptの国際化
+
+https://github.com/jquery/globalize
